@@ -39,8 +39,7 @@ Mich faszinieren:
 ---
 
 ### 📂 Projekte
-- 🧾 [Lenslift Forms](https://github.com/jakobcommute/Lenslift-Forms) – Formularsystem für Videoprojekte  
-- 🌐 [Webdev Playground](https://github.com/jakobcommute/Webdev) – Lernprojekte & Experimente  
+- 🧾 [Lenslift Forms](https://github.com/jakobcommute/Lenslift-Forms) – Formularsystem für Videoprojekte 
 
 ---
 
